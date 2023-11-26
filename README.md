@@ -46,9 +46,9 @@ This C program implements a simple Pharmacy Management System. The system allows
 
  # Authors
 
-**Pavan R Kashyap (Primary contributor)** : Wrote the codebase for the array of structures, the main_function, the alter function and the append_accord function (for deletion). 
-**Pranav Sirnapalli** : Wrote the code for adding new stock
-**Prajwal V Bhat** : Wrote the code for displaying fresh stock
+1. **Pavan R Kashyap (Primary contributor)** : Wrote the codebase for the array of structures, the main_function, the alter function and the append_accord function (for deletion). 
+2. **Pranav Sirnapalli** : Wrote the code for adding new stock
+3. **Prajwal V Bhat** : Wrote the code for displaying fresh stock
 
 
 
